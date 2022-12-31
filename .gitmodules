@@ -1,0 +1,3 @@
+[submodule "nginx-proxy-connect-stable-alpine"]
+	path = nginx-proxy-connect-stable-alpine
+	url = git@github.com:rpardini/nginx-proxy-connect-stable-alpine.git
