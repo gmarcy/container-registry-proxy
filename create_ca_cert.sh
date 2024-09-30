@@ -8,7 +8,7 @@ logInfo() {
     echo "INFO: $@"
 }
 
-PROJ_NAME=DockerMirrorBox
+PROJ_NAME=RegistryProxyMirrorBox
 logInfo "Will create certificate with names $ALLDOMAINS"
 
 CADATE=$(date "+%Y.%m.%d %H:%M")

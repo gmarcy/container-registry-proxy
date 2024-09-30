@@ -4,7 +4,7 @@
 *.iml
 LICENSE
 README.md
-docker_mirror_cache
-docker_mirror_certs
+registry_proxy_mirror_cache
+registry_proxy_mirror_certs
 .github
 Makefile

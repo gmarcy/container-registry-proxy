@@ -1,5 +1,5 @@
 {
-  "name": "docker-registry-proxy",
+  "name": "container-registry-proxy",
   "dependencies": {
     "@semantic-release/exec": "^5.0.0",
     "@semantic-release/github": "^7.2.0",
